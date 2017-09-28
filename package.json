@@ -1,0 +1,25 @@
+{
+  "name": "checkmail",
+  "version": "1.0.0",
+  "description": "Check email VietSeeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ducdungdan/checkmail.git"
+  },
+  "keywords": [
+    "check",
+    "mail",
+    "width",
+    "conditions"
+  ],
+  "author": "Duc Dung Dan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ducdungdan/checkmail/issues"
+  },
+  "homepage": "https://github.com/Ducdungdan/checkmail#readme"
+}
